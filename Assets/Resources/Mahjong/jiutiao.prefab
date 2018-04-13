@@ -10,9 +10,10 @@ GameObject:
   - component: {fileID: 434790}
   - component: {fileID: 3340576}
   - component: {fileID: 2340648}
+  - component: {fileID: 114438782341088104}
   m_Layer: 0
   m_Name: jiutiao
-  m_TagString: Untagged
+  m_TagString: maj
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -86,3 +87,15 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 174638}
   m_IsPrefabParent: 1
+--- !u!114 &114438782341088104
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa7ba82cbafc12478445ffa1868041c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
